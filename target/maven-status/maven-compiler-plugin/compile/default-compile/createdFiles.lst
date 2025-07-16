@@ -1,0 +1,3 @@
+com/distributed/chat/ChatMessage.class
+com/distributed/chat/PeerConnectionHandler.class
+com/distributed/chat/ChatServer.class
